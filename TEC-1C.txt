@@ -1,0 +1,4 @@
+Ian McLean?Australian Vintage Computer Group
+December 26, 2018 ·
+
+Inspired by John Hardy finding his old and crusty TEC-1, I did a bit of digging. I present to you my original (and also crusty) TEC-1C - missing a few parts now and in a bit of a sorry state. Found in the bottom of a filing cabinet drawer full of old PCB's this evening. Still can't find the old EPROM programmer board or the DAT/LCD board - which I must have been running last I was using it, because I have my original JMON EPROM on the board.
